@@ -1,0 +1,1 @@
+$(".ber_icon").click(function(){ $(".nav-style").slideToggle(); })
