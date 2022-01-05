@@ -4,7 +4,7 @@
 
 # Lambda
 
-A responsive beautiful Resturent porfolio website.
+A responsive beautiful Restaurant portfolio website.
 
 ## Demo
 
